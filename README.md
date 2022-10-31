@@ -1,13 +1,13 @@
 # Bin2Dec in CSharp
 
-## De onde veio a ideia?
+## Where did the idea come from?
 
-A ideia veio do repositório [app-ideia](https://github.com/jgbispo/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md) como forma de colocar em prática um pouco dos conhecimentos apendidos no curso de C# que estou fazendo;
+The idea came from the repository [app-ideia](https://github.com/jgbispo/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md) as a way to put some of the knowledge learned in the C# course I'm taking;
 
-## Aprendizado
+## Apprenticeship
 
-Com esse projeto compreendi melhor o uso de `IF and Else` e de criação de funções para melhor aproveitamento
+With this project I understood better the use of <strong>IF and Else</strong> and the creation of functions for better use
 
-### Autor
+### Author
 
 > João Gustavo Soares Bispo - [Links](https://bispolinks.vercel.app/)
